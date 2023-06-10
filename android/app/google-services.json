@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "659321249820",
+    "firebase_url": "https://examnotesfirebase-default-rtdb.firebaseio.com",
+    "project_id": "examnotesfirebase",
+    "storage_bucket": "examnotesfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659321249820:android:d6a31aad19fbfa3ed63fd9",
+        "android_client_info": {
+          "package_name": "com.example.exam_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwS1wwb4qGiNcQY6_XBJMDsMIKLH8ccJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
